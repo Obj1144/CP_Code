@@ -1,1 +1,1 @@
-# CP_Code
+# competitive program
